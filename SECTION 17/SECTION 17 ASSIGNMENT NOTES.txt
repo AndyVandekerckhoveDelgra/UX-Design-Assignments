@@ -1,0 +1,5 @@
+Most of the entities in the database don't have most of their attributes filled in. The only one that is completely filled in and used for tests is "Lamborghini Huracan".
+
+The pages "Loans" and "Contact Us" don't have their seperate pages and are shown at the bottom of the home page. This is because I'm using the free version of Webflow, and you need to pay to have more than two pages. Similarly, the "Cars" page also includes the style guide at the bottom. This style guide is the one from lesson 167 Creating Style Guide.
+
+The Header for "What We Offer" appears to have a glitch where it merely display "W" instead of the full sentence. I don't know how to fix this. Even when I type the sentence in the header again, it keeps displaying "W" again.

@@ -1,0 +1,3 @@
+While the prototype is interactive, the buttons don't change color while hovering.
+
+I presume giving a button a hover effect isn't possible through the free version of Figma, but I'm not sure.

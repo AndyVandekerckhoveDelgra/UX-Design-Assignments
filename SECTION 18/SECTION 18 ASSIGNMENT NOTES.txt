@@ -1,0 +1,4 @@
+This is a case study for a toy store site design made in an earlier assignment.
+Currently I only have a home page, so the "Final Screens" and "Paper Wireframes" slide look rather empthy.
+
+This project is about a toy store site. There's supposed to be both a Home Page that gives information about the store and a page for the online shop that shows the articles. The Home Page is designed through Figma, while the online shop is merely designed through a paper wireframe. The paper wireframe and the final screen seen in the presentation don't really match since they're supposed to represent different screens. That said, even the online shop is supposed to have the same color pallete and layout as the home page.
